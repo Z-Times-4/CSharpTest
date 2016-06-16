@@ -10,7 +10,7 @@ namespace CSharpTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("helloworrrrld");
+            Console.WriteLine("hello, world");
         }
     }
 }
